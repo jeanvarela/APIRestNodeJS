@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Projeto APi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean Varela",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": ">=1.15.2",
+    "cookie-parser": ">=1.4.3",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.7",
+    "mongoose": "^4.8.2",
+    "morgan": ">=1.7.0"
+  }
+}
